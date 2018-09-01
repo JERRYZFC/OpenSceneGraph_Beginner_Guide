@@ -1,0 +1,370 @@
+[zfc_loger]:3    [zfc_loger]:4    Opened DynamicLibrary osgPlugins-3.4.0/osgdb_osgd.dll
+[zfc_loger]:4    CullSettings::readEnvironmentalVariables()
+[zfc_loger]:4    CullSettings::readEnvironmentalVariables()
+[zfc_loger]:4    Constructing PixelBufferObject for image=0253CA98
+[zfc_loger]:4    Opened DynamicLibrary osgPlugins-3.4.0/osgdb_deprecated_osgd.dll
+[zfc_loger]:4    OSGReaderWriter wrappers loaded OK
+[zfc_loger]:4    Opened DynamicLibrary osgPlugins-3.4.0/osgdb_rgbd.dll
+[zfc_loger]:4    raw->sizeX = 128
+[zfc_loger]:4    raw->sizeY = 128
+[zfc_loger]:4    raw->sizeZ = 3
+[zfc_loger]:4    raw->bpc = 1
+[zfc_loger]:4    image read ok 128  128
+[zfc_loger]:4    CullSettings::readEnvironmentalVariables()
+[zfc_loger]:4    DatabasePager::addDatabaseThread() HANDLE_NON_HTTP
+[zfc_loger]:4    DatabasePager::addDatabaseThread() HANDLE_ONLY_HTTP
+[zfc_loger]:4    CullSettings::readEnvironmentalVariables()
+[zfc_loger]:4    CullSettings::readEnvironmentalVariables()
+[zfc_loger]:4    CullSettings::readEnvironmentalVariables()
+[zfc_loger]:4    CullSettings::readEnvironmentalVariables()
+[zfc_loger]:4    ShaderComposer::ShaderComposer() 0256F698
+[zfc_loger]:4    CullSettings::readEnvironmentalVariables()
+[zfc_loger]:4    ShaderComposer::ShaderComposer() 025C3B18
+[zfc_loger]:4    View::setSceneData() Reusing existing scene025676E8
+[zfc_loger]:4     CameraManipulator::computeHomePosition(00000000, 0)
+[zfc_loger]:4        boundingSphere.center() = (0.776125 -0.43866 0)
+[zfc_loger]:4        boundingSphere.radius() = 6.35558
+[zfc_loger]:4     CameraManipulator::computeHomePosition(02569958, 0)
+[zfc_loger]:4        boundingSphere.center() = (0.776125 -0.43866 0)
+[zfc_loger]:4        boundingSphere.radius() = 6.35558
+[zfc_loger]:4    Viewer::realize() - No valid contexts found, setting up view across all screens.
+[zfc_loger]:4    Applying osgViewer::ViewConfig : AcrossAllScreens
+[zfc_loger]:4    GraphicsContext::getWindowingSystemInterface() 0251F968	5C74DF44
+[zfc_loger]:4    GraphicsContext::getWindowingSystemInterface() 0251F968	5C74DF44
+[zfc_loger]:4    GraphicsContext::registerGraphicsContext 025CB610
+[zfc_loger]:4    ShaderComposer::ShaderComposer() 025D05A0
+[zfc_loger]:4    GraphicsContext::createNewContextID() creating contextID=0
+[zfc_loger]:4    Updating the MaxNumberOfGraphicsContexts to 1
+[zfc_loger]:4    View::setUpViewOnSingleScreen - GraphicsWindow has been created successfully.
+[zfc_loger]:4     CameraManipulator::computeHomePosition(00000000, 0)
+[zfc_loger]:4        boundingSphere.center() = (0.776125 -0.43866 0)
+[zfc_loger]:4        boundingSphere.radius() = 6.35558
+[zfc_loger]:4     CameraManipulator::computeHomePosition(02569958, 0)
+[zfc_loger]:4        boundingSphere.center() = (0.776125 -0.43866 0)
+[zfc_loger]:4        boundingSphere.radius() = 6.35558
+[zfc_loger]:4    GraphicsContext::getWindowingSystemInterface() 0251F968	5C74DF44
+[zfc_loger]:4    osg::State::_maxTexturePoolSize=0
+[zfc_loger]:4    osg::State::_maxBufferObjectPoolSize=0
+[zfc_loger]:4    GL_VENDOR = [VMware,_Inc.]
+[zfc_loger]:4    OpenGL extensions supported by installed OpenGL drivers are:
+[zfc_loger]:4        GL_AMD_conservative_depth
+[zfc_loger]:4        GL_AMD_shader_trinary_minmax
+[zfc_loger]:4        GL_APPLE_packed_pixels
+[zfc_loger]:4        GL_ARB_ES2_compatibility
+[zfc_loger]:4        GL_ARB_ES3_compatibility
+[zfc_loger]:4        GL_ARB_arrays_of_arrays
+[zfc_loger]:4        GL_ARB_blend_func_extended
+[zfc_loger]:4        GL_ARB_clear_buffer_object
+[zfc_loger]:4        GL_ARB_clear_texture
+[zfc_loger]:4        GL_ARB_color_buffer_float
+[zfc_loger]:4        GL_ARB_compressed_texture_pixel_storage
+[zfc_loger]:4        GL_ARB_conservative_depth
+[zfc_loger]:4        GL_ARB_copy_buffer
+[zfc_loger]:4        GL_ARB_copy_image
+[zfc_loger]:4        GL_ARB_debug_output
+[zfc_loger]:4        GL_ARB_depth_buffer_float
+[zfc_loger]:4        GL_ARB_depth_clamp
+[zfc_loger]:4        GL_ARB_depth_texture
+[zfc_loger]:4        GL_ARB_draw_buffers
+[zfc_loger]:4        GL_ARB_draw_elements_base_vertex
+[zfc_loger]:4        GL_ARB_draw_instanced
+[zfc_loger]:4        GL_ARB_explicit_attrib_location
+[zfc_loger]:4        GL_ARB_explicit_uniform_location
+[zfc_loger]:4        GL_ARB_fragment_coord_conventions
+[zfc_loger]:4        GL_ARB_fragment_program
+[zfc_loger]:4        GL_ARB_fragment_program_shadow
+[zfc_loger]:4        GL_ARB_fragment_shader
+[zfc_loger]:4        GL_ARB_framebuffer_object
+[zfc_loger]:4        GL_ARB_framebuffer_sRGB
+[zfc_loger]:4        GL_ARB_get_program_binary
+[zfc_loger]:4        GL_ARB_get_texture_sub_image
+[zfc_loger]:4        GL_ARB_half_float_pixel
+[zfc_loger]:4        GL_ARB_half_float_vertex
+[zfc_loger]:4        GL_ARB_instanced_arrays
+[zfc_loger]:4        GL_ARB_internalformat_query
+[zfc_loger]:4        GL_ARB_internalformat_query2
+[zfc_loger]:4        GL_ARB_invalidate_subdata
+[zfc_loger]:4        GL_ARB_map_buffer_alignment
+[zfc_loger]:4        GL_ARB_map_buffer_range
+[zfc_loger]:4        GL_ARB_multi_bind
+[zfc_loger]:4        GL_ARB_multisample
+[zfc_loger]:4        GL_ARB_multitexture
+[zfc_loger]:4        GL_ARB_occlusion_query
+[zfc_loger]:4        GL_ARB_occlusion_query2
+[zfc_loger]:4        GL_ARB_pixel_buffer_object
+[zfc_loger]:4        GL_ARB_point_parameters
+[zfc_loger]:4        GL_ARB_point_sprite
+[zfc_loger]:4        GL_ARB_program_interface_query
+[zfc_loger]:4        GL_ARB_provoking_vertex
+[zfc_loger]:4        GL_ARB_robustness
+[zfc_loger]:4        GL_ARB_sampler_objects
+[zfc_loger]:4        GL_ARB_seamless_cube_map
+[zfc_loger]:4        GL_ARB_separate_shader_objects
+[zfc_loger]:4        GL_ARB_shader_bit_encoding
+[zfc_loger]:4        GL_ARB_shader_objects
+[zfc_loger]:4        GL_ARB_shader_texture_lod
+[zfc_loger]:4        GL_ARB_shading_language_100
+[zfc_loger]:4        GL_ARB_shading_language_420pack
+[zfc_loger]:4        GL_ARB_shading_language_packing
+[zfc_loger]:4        GL_ARB_shadow
+[zfc_loger]:4        GL_ARB_sync
+[zfc_loger]:4        GL_ARB_texture_border_clamp
+[zfc_loger]:4        GL_ARB_texture_compression
+[zfc_loger]:4        GL_ARB_texture_compression_rgtc
+[zfc_loger]:4        GL_ARB_texture_cube_map
+[zfc_loger]:4        GL_ARB_texture_env_add
+[zfc_loger]:4        GL_ARB_texture_env_combine
+[zfc_loger]:4        GL_ARB_texture_env_crossbar
+[zfc_loger]:4        GL_ARB_texture_env_dot3
+[zfc_loger]:4        GL_ARB_texture_float
+[zfc_loger]:4        GL_ARB_texture_mirrored_repeat
+[zfc_loger]:4        GL_ARB_texture_multisample
+[zfc_loger]:4        GL_ARB_texture_non_power_of_two
+[zfc_loger]:4        GL_ARB_texture_query_levels
+[zfc_loger]:4        GL_ARB_texture_rectangle
+[zfc_loger]:4        GL_ARB_texture_rg
+[zfc_loger]:4        GL_ARB_texture_rgb10_a2ui
+[zfc_loger]:4        GL_ARB_texture_storage
+[zfc_loger]:4        GL_ARB_texture_storage_multisample
+[zfc_loger]:4        GL_ARB_texture_swizzle
+[zfc_loger]:4        GL_ARB_timer_query
+[zfc_loger]:4        GL_ARB_transpose_matrix
+[zfc_loger]:4        GL_ARB_uniform_buffer_object
+[zfc_loger]:4        GL_ARB_vertex_array_bgra
+[zfc_loger]:4        GL_ARB_vertex_array_object
+[zfc_loger]:4        GL_ARB_vertex_attrib_binding
+[zfc_loger]:4        GL_ARB_vertex_buffer_object
+[zfc_loger]:4        GL_ARB_vertex_program
+[zfc_loger]:4        GL_ARB_vertex_shader
+[zfc_loger]:4        GL_ARB_vertex_type_2_10_10_10_rev
+[zfc_loger]:4        GL_ARB_window_pos
+[zfc_loger]:4        GL_ATI_blend_equation_separate
+[zfc_loger]:4        GL_ATI_draw_buffers
+[zfc_loger]:4        GL_ATI_fragment_shader
+[zfc_loger]:4        GL_ATI_separate_stencil
+[zfc_loger]:4        GL_ATI_texture_env_combine3
+[zfc_loger]:4        GL_ATI_texture_float
+[zfc_loger]:4        GL_EXT_abgr
+[zfc_loger]:4        GL_EXT_bgra
+[zfc_loger]:4        GL_EXT_blend_color
+[zfc_loger]:4        GL_EXT_blend_equation_separate
+[zfc_loger]:4        GL_EXT_blend_func_separate
+[zfc_loger]:4        GL_EXT_blend_minmax
+[zfc_loger]:4        GL_EXT_blend_subtract
+[zfc_loger]:4        GL_EXT_compiled_vertex_array
+[zfc_loger]:4        GL_EXT_copy_texture
+[zfc_loger]:4        GL_EXT_draw_buffers2
+[zfc_loger]:4        GL_EXT_draw_instanced
+[zfc_loger]:4        GL_EXT_draw_range_elements
+[zfc_loger]:4        GL_EXT_fog_coord
+[zfc_loger]:4        GL_EXT_framebuffer_blit
+[zfc_loger]:4        GL_EXT_framebuffer_multisample
+[zfc_loger]:4        GL_EXT_framebuffer_multisample_blit_scaled
+[zfc_loger]:4        GL_EXT_framebuffer_object
+[zfc_loger]:4        GL_EXT_framebuffer_sRGB
+[zfc_loger]:4        GL_EXT_gpu_program_parameters
+[zfc_loger]:4        GL_EXT_multi_draw_arrays
+[zfc_loger]:4        GL_EXT_packed_depth_stencil
+[zfc_loger]:4        GL_EXT_packed_float
+[zfc_loger]:4        GL_EXT_packed_pixels
+[zfc_loger]:4        GL_EXT_pixel_buffer_object
+[zfc_loger]:4        GL_EXT_point_parameters
+[zfc_loger]:4        GL_EXT_polygon_offset
+[zfc_loger]:4        GL_EXT_provoking_vertex
+[zfc_loger]:4        GL_EXT_rescale_normal
+[zfc_loger]:4        GL_EXT_secondary_color
+[zfc_loger]:4        GL_EXT_separate_specular_color
+[zfc_loger]:4        GL_EXT_shader_integer_mix
+[zfc_loger]:4        GL_EXT_shadow_funcs
+[zfc_loger]:4        GL_EXT_stencil_two_side
+[zfc_loger]:4        GL_EXT_stencil_wrap
+[zfc_loger]:4        GL_EXT_subtexture
+[zfc_loger]:4        GL_EXT_texture
+[zfc_loger]:4        GL_EXT_texture3D
+[zfc_loger]:4        GL_EXT_texture_array
+[zfc_loger]:4        GL_EXT_texture_compression_rgtc
+[zfc_loger]:4        GL_EXT_texture_cube_map
+[zfc_loger]:4        GL_EXT_texture_edge_clamp
+[zfc_loger]:4        GL_EXT_texture_env_add
+[zfc_loger]:4        GL_EXT_texture_env_combine
+[zfc_loger]:4        GL_EXT_texture_env_dot3
+[zfc_loger]:4        GL_EXT_texture_filter_anisotropic
+[zfc_loger]:4        GL_EXT_texture_integer
+[zfc_loger]:4        GL_EXT_texture_lod_bias
+[zfc_loger]:4        GL_EXT_texture_object
+[zfc_loger]:4        GL_EXT_texture_rectangle
+[zfc_loger]:4        GL_EXT_texture_sRGB
+[zfc_loger]:4        GL_EXT_texture_sRGB_decode
+[zfc_loger]:4        GL_EXT_texture_shared_exponent
+[zfc_loger]:4        GL_EXT_texture_snorm
+[zfc_loger]:4        GL_EXT_texture_swizzle
+[zfc_loger]:4        GL_EXT_timer_query
+[zfc_loger]:4        GL_EXT_transform_feedback
+[zfc_loger]:4        GL_EXT_vertex_array
+[zfc_loger]:4        GL_EXT_vertex_array_bgra
+[zfc_loger]:4        GL_IBM_multimode_draw_arrays
+[zfc_loger]:4        GL_IBM_rasterpos_clip
+[zfc_loger]:4        GL_IBM_texture_mirrored_repeat
+[zfc_loger]:4        GL_INGR_blend_func_separate
+[zfc_loger]:4        GL_KHR_context_flush_control
+[zfc_loger]:4        GL_KHR_debug
+[zfc_loger]:4        GL_KHR_no_error
+[zfc_loger]:4        GL_MESA_pack_invert
+[zfc_loger]:4        GL_MESA_shader_integer_functions
+[zfc_loger]:4        GL_MESA_texture_signed_rgba
+[zfc_loger]:4        GL_MESA_window_pos
+[zfc_loger]:4        GL_NV_blend_square
+[zfc_loger]:4        GL_NV_conditional_render
+[zfc_loger]:4        GL_NV_depth_clamp
+[zfc_loger]:4        GL_NV_fog_distance
+[zfc_loger]:4        GL_NV_light_max_exponent
+[zfc_loger]:4        GL_NV_packed_depth_stencil
+[zfc_loger]:4        GL_NV_primitive_restart
+[zfc_loger]:4        GL_NV_texgen_reflection
+[zfc_loger]:4        GL_NV_texture_env_combine4
+[zfc_loger]:4        GL_NV_texture_rectangle
+[zfc_loger]:4        GL_OES_EGL_image
+[zfc_loger]:4        GL_OES_read_format
+[zfc_loger]:4        GL_SGIS_generate_mipmap
+[zfc_loger]:4        GL_SGIS_texture_border_clamp
+[zfc_loger]:4        GL_SGIS_texture_edge_clamp
+[zfc_loger]:4        GL_SGIS_texture_lod
+[zfc_loger]:4        GL_SUN_multi_draw_arrays
+[zfc_loger]:4        WGL_ARB_create_context
+[zfc_loger]:4        WGL_ARB_create_context_profile
+[zfc_loger]:4        WGL_ARB_extensions_string
+[zfc_loger]:4        WGL_ARB_framebuffer_sRGB
+[zfc_loger]:4        WGL_ARB_make_current_read
+[zfc_loger]:4        WGL_ARB_multisample
+[zfc_loger]:4        WGL_ARB_pbuffer
+[zfc_loger]:4        WGL_ARB_pixel_format
+[zfc_loger]:4        WGL_ARB_render_texture
+[zfc_loger]:4        WGL_EXT_create_context_es2_profile
+[zfc_loger]:4        WGL_EXT_create_context_es_profile
+[zfc_loger]:4        WGL_EXT_extensions_string
+[zfc_loger]:4        WGL_EXT_swap_control
+[zfc_loger]:4    OpenGL extension 'GL_ARB_shader_objects' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_vertex_shader' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_fragment_shader' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_shading_language_100' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_geometry_shader4' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_gpu_shader4' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_tessellation_shader' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_uniform_buffer_object' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_get_program_binary' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_gpu_shader_fp64' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_shader_atomic_counters' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_texture_rectangle' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_texture_cube_map' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_clip_control' is not supported.
+[zfc_loger]:4    glVersion=3, isGlslSupported=YES, glslLanguageVersion=1.3
+[zfc_loger]:4    OpenGL extension 'GL_ARB_pixel_buffer_object' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_uniform_buffer_object' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_texture_buffer_object' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_vertex_array_object' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_transform_feedback2' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_blend_func_separate' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_secondary_color' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_fog_coord' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_multitexture' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_NV_occlusion_query' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_occlusion_query' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_timer_query' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_timer_query' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_texture_multisample' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_vertex_program' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_fragment_program' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_multitexture' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_texture_filter_anisotropic' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_texture_swizzle' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_texture_compression' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_texture_compression_s3tc' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_S3_s3tc' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_IMG_texture_compression_pvrtc' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_OES_compressed_ETC1_RGB8_texture' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_ES3_compatibility' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_texture_compression_rgtc' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_IMG_texture_compression_pvrtc' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_IBM_texture_mirrored_repeat' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_texture_edge_clamp' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_texture_border_clamp' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_SGIS_generate_mipmap' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_texture_multisample' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_shadow' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_shadow_ambient' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_APPLE_client_storage' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_texture_non_power_of_two' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_texture_integer' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_texture3D' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_texture_array' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_blend_color' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_blend_equation' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_blend_equation_separate' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_SGIX_blend_alpha_minmax' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_blend_logic_op' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_stencil_wrap' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_stencil_two_side' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ATI_separate_stencil' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_color_buffer_float' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_point_sprite' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_ARB_multisample' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_NV_multisample_filter_hint' is not supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_framebuffer_object' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_packed_depth_stencil' is supported.
+[zfc_loger]:4    GraphicsCostEstimator::calibrate(..)
+[zfc_loger]:4    GraphicsWindowWin32::setSyncToVBlank on
+[zfc_loger]:4    Viewer::startThreading() - starting threading
+[zfc_loger]:4    Viewer::startThreading() - contexts.size()=1
+[zfc_loger]:4    Making scene thread safe
+[zfc_loger]:4    Doing add
+[zfc_loger]:4    Doing add
+[zfc_loger]:4    Doing add
+[zfc_loger]:4      gc->getGraphicsThread()->startThread() 07F020A8
+[zfc_loger]:4    Set up threading
+[zfc_loger]:4    View::init()
+[zfc_loger]:4    Doing run 07F020A8 isRunning()=1
+[zfc_loger]:4    ShaderComposer::~ShaderComposer() 0256F698
+[zfc_loger]:4    OpenGL extension 'GL_ARB_vertex_buffer_object' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_secondary_color' is supported.
+[zfc_loger]:4    OpenGL extension 'GL_EXT_fog_coord' is supported.
+[zfc_loger]:4    Created new 07F03150 TextureObject, _numOfTextureObjects 1
+[zfc_loger]:4    OpenGL extension '' is not supported.
+[zfc_loger]:4    RenderStage::runCameraSetUp(osg::RenderInfo& renderInfo) 025730C8
+[zfc_loger]:4    Setting up osg::Camera::FRAME_BUFFER
+[zfc_loger]:4    ShaderComposer::~ShaderComposer() 025C3B18
+[zfc_loger]:4    OpenGL extension '' is not supported.
+[zfc_loger]:4    RenderStage::runCameraSetUp(osg::RenderInfo& renderInfo) 025C7078
+[zfc_loger]:4    Setting up osg::Camera::FRAME_BUFFER
+[zfc_loger]:4    Viewer::~Viewer():: start destructor getThreads = 1
+[zfc_loger]:4    ViewerBase::stopThreading() - stopping threading
+[zfc_loger]:4    Renderer::release()
+[zfc_loger]:4    Cancelling OperationThread 07F020A8 isRunning()=1
+[zfc_loger]:4       Doing cancel 07F020A8
+[zfc_loger]:4    exit loop 07F020A8 isRunning()=1
+[zfc_loger]:4      OperationThread::cancel() thread cancelled 07F020A8 isRunning()=0
+[zfc_loger]:4    Cancelling OperationThread 07F020A8 isRunning()=0
+[zfc_loger]:4      OperationThread::cancel() thread cancelled 07F020A8 isRunning()=0
+[zfc_loger]:4    Viewer::stopThreading() - stopped threading.
+[zfc_loger]:4    close(1)025CB610
+[zfc_loger]:4    Releasing GL objects for Camera=02569958 _state=025CF008
+[zfc_loger]:4    BufferData::releaseGLObjects(025CF008)
+[zfc_loger]:4    BufferData::releaseGLObjects(025CF008)
+[zfc_loger]:4    BufferData::releaseGLObjects(025CF008)
+[zfc_loger]:4    BufferData::releaseGLObjects(025CF008)
+[zfc_loger]:4    Closing still viable window 0 _state->getContextID()=0
+[zfc_loger]:4    Doing delete of GL objects
+[zfc_loger]:4    Done delete of GL objects
+[zfc_loger]:4    Doing discard of deleted OpenGL objects.
+[zfc_loger]:4    decrementUsageCount()0
+[zfc_loger]:4    GraphicsContext::decrementContextIDUsageCount(0) to 0
+[zfc_loger]:4    Viewer::~Viewer() end destructor getThreads = 0
+[zfc_loger]:4    Destructing osgViewer::View
+[zfc_loger]:4    Destructing osg::View
+[zfc_loger]:4    BufferData::releaseGLObjects(00000000)
+[zfc_loger]:4    BufferData::releaseGLObjects(00000000)
+[zfc_loger]:4    BufferData::releaseGLObjects(00000000)
+[zfc_loger]:4    BufferData::releaseGLObjects(00000000)
+[zfc_loger]:4    DatabasePager::RequestQueue::~RequestQueue() Destructing queue.
+[zfc_loger]:4    DatabasePager::RequestQueue::~RequestQueue() Destructing queue.
+[zfc_loger]:4    DatabasePager::RequestQueue::~RequestQueue() Destructing queue.
+[zfc_loger]:4    DatabasePag

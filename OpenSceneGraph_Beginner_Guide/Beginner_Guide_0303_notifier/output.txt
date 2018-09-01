@@ -1,0 +1,386 @@
+[NOTICE]: [INFO]: Opened DynamicLibrary osgPlugins-3.4.0/osgdb_osgd.dll
+[INFO]: CullSettings::readEnvironmentalVariables()
+[INFO]: CullSettings::readEnvironmentalVariables()
+[INFO]: Constructing PixelBufferObject for image=00E7CA98
+[INFO]: Opened DynamicLibrary osgPlugins-3.4.0/osgdb_deprecated_osgd.dll
+[INFO]: OSGReaderWriter wrappers loaded OK
+[INFO]: Opened DynamicLibrary osgPlugins-3.4.0/osgdb_rgbd.dll
+[INFO]: raw->sizeX = 128
+[INFO]: raw->sizeY = 128
+[INFO]: raw->sizeZ = 3
+[INFO]: raw->bpc = 1
+[INFO]: image read ok 128  128
+[INFO]: CullSettings::readEnvironmentalVariables()
+[INFO]: DatabasePager::addDatabaseThread() HANDLE_NON_HTTP
+[INFO]: DatabasePager::addDatabaseThread() HANDLE_ONLY_HTTP
+[INFO]: CullSettings::readEnvironmentalVariables()
+[INFO]: CullSettings::readEnvironmentalVariables()
+[INFO]: CullSettings::readEnvironmentalVariables()
+[INFO]: CullSettings::readEnvironmentalVariables()
+[INFO]: ShaderComposer::ShaderComposer() 00EAF698
+[INFO]: CullSettings::readEnvironmentalVariables()
+[INFO]: ShaderComposer::ShaderComposer() 00F03B18
+[INFO]: View::setSceneData() Reusing existing scene00EA76E8
+[INFO]:  CameraManipulator::computeHomePosition(00000000, 0)
+[INFO]:     boundingSphere.center() = (0.776125 -0.43866 0)
+[INFO]:     boundingSphere.radius() = 6.35558
+[INFO]:  CameraManipulator::computeHomePosition(00EA9958, 0)
+[INFO]:     boundingSphere.center() = (0.776125 -0.43866 0)
+[INFO]:     boundingSphere.radius() = 6.35558
+[INFO]: Viewer::realize() - No valid contexts found, setting up view across all screens.
+[INFO]: Applying osgViewer::ViewConfig : AcrossAllScreens
+[INFO]: GraphicsContext::getWindowingSystemInterface() 00E5F968	5CD9DF44
+[INFO]: GraphicsContext::getWindowingSystemInterface() 00E5F968	5CD9DF44
+[INFO]: GraphicsContext::registerGraphicsContext 00F0B610
+[INFO]: ShaderComposer::ShaderComposer() 00F105A0
+[INFO]: GraphicsContext::createNewContextID() creating contextID=0
+[INFO]: Updating the MaxNumberOfGraphicsContexts to 1
+[INFO]: View::setUpViewOnSingleScreen - GraphicsWindow has been created successfully.
+[INFO]:  CameraManipulator::computeHomePosition(00000000, 0)
+[INFO]:     boundingSphere.center() = (0.776125 -0.43866 0)
+[INFO]:     boundingSphere.radius() = 6.35558
+[INFO]:  CameraManipulator::computeHomePosition(00EA9958, 0)
+[INFO]:     boundingSphere.center() = (0.776125 -0.43866 0)
+[INFO]:     boundingSphere.radius() = 6.35558
+[INFO]: GraphicsContext::getWindowingSystemInterface() 00E5F968	5CD9DF44
+[INFO]: osg::State::_maxTexturePoolSize=0
+[INFO]: osg::State::_maxBufferObjectPoolSize=0
+[INFO]: GL_VENDOR = [VMware,_Inc.]
+[INFO]: OpenGL extensions supported by installed OpenGL drivers are:
+[INFO]:     GL_AMD_conservative_depth
+[INFO]:     GL_AMD_shader_trinary_minmax
+[INFO]:     GL_APPLE_packed_pixels
+[INFO]:     GL_ARB_ES2_compatibility
+[INFO]:     GL_ARB_ES3_compatibility
+[INFO]:     GL_ARB_arrays_of_arrays
+[INFO]:     GL_ARB_blend_func_extended
+[INFO]:     GL_ARB_clear_buffer_object
+[INFO]:     GL_ARB_clear_texture
+[INFO]:     GL_ARB_color_buffer_float
+[INFO]:     GL_ARB_compressed_texture_pixel_storage
+[INFO]:     GL_ARB_conservative_depth
+[INFO]:     GL_ARB_copy_buffer
+[INFO]:     GL_ARB_copy_image
+[INFO]:     GL_ARB_debug_output
+[INFO]:     GL_ARB_depth_buffer_float
+[INFO]:     GL_ARB_depth_clamp
+[INFO]:     GL_ARB_depth_texture
+[INFO]:     GL_ARB_draw_buffers
+[INFO]:     GL_ARB_draw_elements_base_vertex
+[INFO]:     GL_ARB_draw_instanced
+[INFO]:     GL_ARB_explicit_attrib_location
+[INFO]:     GL_ARB_explicit_uniform_location
+[INFO]:     GL_ARB_fragment_coord_conventions
+[INFO]:     GL_ARB_fragment_program
+[INFO]:     GL_ARB_fragment_program_shadow
+[INFO]:     GL_ARB_fragment_shader
+[INFO]:     GL_ARB_framebuffer_object
+[INFO]:     GL_ARB_framebuffer_sRGB
+[INFO]:     GL_ARB_get_program_binary
+[INFO]:     GL_ARB_get_texture_sub_image
+[INFO]:     GL_ARB_half_float_pixel
+[INFO]:     GL_ARB_half_float_vertex
+[INFO]:     GL_ARB_instanced_arrays
+[INFO]:     GL_ARB_internalformat_query
+[INFO]:     GL_ARB_internalformat_query2
+[INFO]:     GL_ARB_invalidate_subdata
+[INFO]:     GL_ARB_map_buffer_alignment
+[INFO]:     GL_ARB_map_buffer_range
+[INFO]:     GL_ARB_multi_bind
+[INFO]:     GL_ARB_multisample
+[INFO]:     GL_ARB_multitexture
+[INFO]:     GL_ARB_occlusion_query
+[INFO]:     GL_ARB_occlusion_query2
+[INFO]:     GL_ARB_pixel_buffer_object
+[INFO]:     GL_ARB_point_parameters
+[INFO]:     GL_ARB_point_sprite
+[INFO]:     GL_ARB_program_interface_query
+[INFO]:     GL_ARB_provoking_vertex
+[INFO]:     GL_ARB_robustness
+[INFO]:     GL_ARB_sampler_objects
+[INFO]:     GL_ARB_seamless_cube_map
+[INFO]:     GL_ARB_separate_shader_objects
+[INFO]:     GL_ARB_shader_bit_encoding
+[INFO]:     GL_ARB_shader_objects
+[INFO]:     GL_ARB_shader_texture_lod
+[INFO]:     GL_ARB_shading_language_100
+[INFO]:     GL_ARB_shading_language_420pack
+[INFO]:     GL_ARB_shading_language_packing
+[INFO]:     GL_ARB_shadow
+[INFO]:     GL_ARB_sync
+[INFO]:     GL_ARB_texture_border_clamp
+[INFO]:     GL_ARB_texture_compression
+[INFO]:     GL_ARB_texture_compression_rgtc
+[INFO]:     GL_ARB_texture_cube_map
+[INFO]:     GL_ARB_texture_env_add
+[INFO]:     GL_ARB_texture_env_combine
+[INFO]:     GL_ARB_texture_env_crossbar
+[INFO]:     GL_ARB_texture_env_dot3
+[INFO]:     GL_ARB_texture_float
+[INFO]:     GL_ARB_texture_mirrored_repeat
+[INFO]:     GL_ARB_texture_multisample
+[INFO]:     GL_ARB_texture_non_power_of_two
+[INFO]:     GL_ARB_texture_query_levels
+[INFO]:     GL_ARB_texture_rectangle
+[INFO]:     GL_ARB_texture_rg
+[INFO]:     GL_ARB_texture_rgb10_a2ui
+[INFO]:     GL_ARB_texture_storage
+[INFO]:     GL_ARB_texture_storage_multisample
+[INFO]:     GL_ARB_texture_swizzle
+[INFO]:     GL_ARB_timer_query
+[INFO]:     GL_ARB_transpose_matrix
+[INFO]:     GL_ARB_uniform_buffer_object
+[INFO]:     GL_ARB_vertex_array_bgra
+[INFO]:     GL_ARB_vertex_array_object
+[INFO]:     GL_ARB_vertex_attrib_binding
+[INFO]:     GL_ARB_vertex_buffer_object
+[INFO]:     GL_ARB_vertex_program
+[INFO]:     GL_ARB_vertex_shader
+[INFO]:     GL_ARB_vertex_type_2_10_10_10_rev
+[INFO]:     GL_ARB_window_pos
+[INFO]:     GL_ATI_blend_equation_separate
+[INFO]:     GL_ATI_draw_buffers
+[INFO]:     GL_ATI_fragment_shader
+[INFO]:     GL_ATI_separate_stencil
+[INFO]:     GL_ATI_texture_env_combine3
+[INFO]:     GL_ATI_texture_float
+[INFO]:     GL_EXT_abgr
+[INFO]:     GL_EXT_bgra
+[INFO]:     GL_EXT_blend_color
+[INFO]:     GL_EXT_blend_equation_separate
+[INFO]:     GL_EXT_blend_func_separate
+[INFO]:     GL_EXT_blend_minmax
+[INFO]:     GL_EXT_blend_subtract
+[INFO]:     GL_EXT_compiled_vertex_array
+[INFO]:     GL_EXT_copy_texture
+[INFO]:     GL_EXT_draw_buffers2
+[INFO]:     GL_EXT_draw_instanced
+[INFO]:     GL_EXT_draw_range_elements
+[INFO]:     GL_EXT_fog_coord
+[INFO]:     GL_EXT_framebuffer_blit
+[INFO]:     GL_EXT_framebuffer_multisample
+[INFO]:     GL_EXT_framebuffer_multisample_blit_scaled
+[INFO]:     GL_EXT_framebuffer_object
+[INFO]:     GL_EXT_framebuffer_sRGB
+[INFO]:     GL_EXT_gpu_program_parameters
+[INFO]:     GL_EXT_multi_draw_arrays
+[INFO]:     GL_EXT_packed_depth_stencil
+[INFO]:     GL_EXT_packed_float
+[INFO]:     GL_EXT_packed_pixels
+[INFO]:     GL_EXT_pixel_buffer_object
+[INFO]:     GL_EXT_point_parameters
+[INFO]:     GL_EXT_polygon_offset
+[INFO]:     GL_EXT_provoking_vertex
+[INFO]:     GL_EXT_rescale_normal
+[INFO]:     GL_EXT_secondary_color
+[INFO]:     GL_EXT_separate_specular_color
+[INFO]:     GL_EXT_shader_integer_mix
+[INFO]:     GL_EXT_shadow_funcs
+[INFO]:     GL_EXT_stencil_two_side
+[INFO]:     GL_EXT_stencil_wrap
+[INFO]:     GL_EXT_subtexture
+[INFO]:     GL_EXT_texture
+[INFO]:     GL_EXT_texture3D
+[INFO]:     GL_EXT_texture_array
+[INFO]:     GL_EXT_texture_compression_rgtc
+[INFO]:     GL_EXT_texture_cube_map
+[INFO]:     GL_EXT_texture_edge_clamp
+[INFO]:     GL_EXT_texture_env_add
+[INFO]:     GL_EXT_texture_env_combine
+[INFO]:     GL_EXT_texture_env_dot3
+[INFO]:     GL_EXT_texture_filter_anisotropic
+[INFO]:     GL_EXT_texture_integer
+[INFO]:     GL_EXT_texture_lod_bias
+[INFO]:     GL_EXT_texture_object
+[INFO]:     GL_EXT_texture_rectangle
+[INFO]:     GL_EXT_texture_sRGB
+[INFO]:     GL_EXT_texture_sRGB_decode
+[INFO]:     GL_EXT_texture_shared_exponent
+[INFO]:     GL_EXT_texture_snorm
+[INFO]:     GL_EXT_texture_swizzle
+[INFO]:     GL_EXT_timer_query
+[INFO]:     GL_EXT_transform_feedback
+[INFO]:     GL_EXT_vertex_array
+[INFO]:     GL_EXT_vertex_array_bgra
+[INFO]:     GL_IBM_multimode_draw_arrays
+[INFO]:     GL_IBM_rasterpos_clip
+[INFO]:     GL_IBM_texture_mirrored_repeat
+[INFO]:     GL_INGR_blend_func_separate
+[INFO]:     GL_KHR_context_flush_control
+[INFO]:     GL_KHR_debug
+[INFO]:     GL_KHR_no_error
+[INFO]:     GL_MESA_pack_invert
+[INFO]:     GL_MESA_shader_integer_functions
+[INFO]:     GL_MESA_texture_signed_rgba
+[INFO]:     GL_MESA_window_pos
+[INFO]:     GL_NV_blend_square
+[INFO]:     GL_NV_conditional_render
+[INFO]:     GL_NV_depth_clamp
+[INFO]:     GL_NV_fog_distance
+[INFO]:     GL_NV_light_max_exponent
+[INFO]:     GL_NV_packed_depth_stencil
+[INFO]:     GL_NV_primitive_restart
+[INFO]:     GL_NV_texgen_reflection
+[INFO]:     GL_NV_texture_env_combine4
+[INFO]:     GL_NV_texture_rectangle
+[INFO]:     GL_OES_EGL_image
+[INFO]:     GL_OES_read_format
+[INFO]:     GL_SGIS_generate_mipmap
+[INFO]:     GL_SGIS_texture_border_clamp
+[INFO]:     GL_SGIS_texture_edge_clamp
+[INFO]:     GL_SGIS_texture_lod
+[INFO]:     GL_SUN_multi_draw_arrays
+[INFO]:     WGL_ARB_create_context
+[INFO]:     WGL_ARB_create_context_profile
+[INFO]:     WGL_ARB_extensions_string
+[INFO]:     WGL_ARB_framebuffer_sRGB
+[INFO]:     WGL_ARB_make_current_read
+[INFO]:     WGL_ARB_multisample
+[INFO]:     WGL_ARB_pbuffer
+[INFO]:     WGL_ARB_pixel_format
+[INFO]:     WGL_ARB_render_texture
+[INFO]:     WGL_EXT_create_context_es2_profile
+[INFO]:     WGL_EXT_create_context_es_profile
+[INFO]:     WGL_EXT_extensions_string
+[INFO]:     WGL_EXT_swap_control
+[INFO]: OpenGL extension 'GL_ARB_shader_objects' is supported.
+[INFO]: OpenGL extension 'GL_ARB_vertex_shader' is supported.
+[INFO]: OpenGL extension 'GL_ARB_fragment_shader' is supported.
+[INFO]: OpenGL extension 'GL_ARB_shading_language_100' is supported.
+[INFO]: OpenGL extension 'GL_EXT_geometry_shader4' is not supported.
+[INFO]: OpenGL extension 'GL_EXT_gpu_shader4' is not supported.
+[INFO]: OpenGL extension 'GL_ARB_tessellation_shader' is not supported.
+[INFO]: OpenGL extension 'GL_ARB_uniform_buffer_object' is supported.
+[INFO]: OpenGL extension 'GL_ARB_get_program_binary' is supported.
+[INFO]: OpenGL extension 'GL_ARB_gpu_shader_fp64' is not supported.
+[INFO]: OpenGL extension 'GL_ARB_shader_atomic_counters' is not supported.
+[INFO]: OpenGL extension 'GL_ARB_texture_rectangle' is supported.
+[INFO]: OpenGL extension 'GL_ARB_texture_cube_map' is supported.
+[INFO]: OpenGL extension 'GL_ARB_clip_control' is not supported.
+[INFO]: glVersion=3, isGlslSupported=YES, glslLanguageVersion=1.3
+[INFO]: OpenGL extension 'GL_ARB_pixel_buffer_object' is supported.
+[INFO]: OpenGL extension 'GL_ARB_uniform_buffer_object' is supported.
+[INFO]: OpenGL extension 'GL_ARB_texture_buffer_object' is not supported.
+[INFO]: OpenGL extension 'GL_ARB_vertex_array_object' is supported.
+[INFO]: OpenGL extension 'GL_ARB_transform_feedback2' is not supported.
+[INFO]: OpenGL extension 'GL_EXT_blend_func_separate' is supported.
+[INFO]: OpenGL extension 'GL_EXT_secondary_color' is supported.
+[INFO]: OpenGL extension 'GL_EXT_fog_coord' is supported.
+[INFO]: OpenGL extension 'GL_ARB_multitexture' is supported.
+[INFO]: OpenGL extension 'GL_NV_occlusion_query' is not supported.
+[INFO]: OpenGL extension 'GL_ARB_occlusion_query' is supported.
+[INFO]: OpenGL extension 'GL_EXT_timer_query' is supported.
+[INFO]: OpenGL extension 'GL_ARB_timer_query' is supported.
+[INFO]: OpenGL extension 'GL_ARB_texture_multisample' is supported.
+[INFO]: OpenGL extension 'GL_ARB_vertex_program' is supported.
+[INFO]: OpenGL extension 'GL_ARB_fragment_program' is supported.
+[INFO]: OpenGL extension 'GL_ARB_multitexture' is supported.
+[INFO]: OpenGL extension 'GL_EXT_texture_filter_anisotropic' is supported.
+[INFO]: OpenGL extension 'GL_ARB_texture_swizzle' is supported.
+[INFO]: OpenGL extension 'GL_ARB_texture_compression' is supported.
+[INFO]: OpenGL extension 'GL_EXT_texture_compression_s3tc' is not supported.
+[INFO]: OpenGL extension 'GL_S3_s3tc' is not supported.
+[INFO]: OpenGL extension 'GL_IMG_texture_compression_pvrtc' is not supported.
+[INFO]: OpenGL extension 'GL_OES_compressed_ETC1_RGB8_texture' is not supported.
+[INFO]: OpenGL extension 'GL_ARB_ES3_compatibility' is supported.
+[INFO]: OpenGL extension 'GL_EXT_texture_compression_rgtc' is supported.
+[INFO]: OpenGL extension 'GL_IMG_texture_compression_pvrtc' is not supported.
+[INFO]: OpenGL extension 'GL_IBM_texture_mirrored_repeat' is supported.
+[INFO]: OpenGL extension 'GL_EXT_texture_edge_clamp' is supported.
+[INFO]: OpenGL extension 'GL_ARB_texture_border_clamp' is supported.
+[INFO]: OpenGL extension 'GL_SGIS_generate_mipmap' is supported.
+[INFO]: OpenGL extension 'GL_ARB_texture_multisample' is supported.
+[INFO]: OpenGL extension 'GL_ARB_shadow' is supported.
+[INFO]: OpenGL extension 'GL_ARB_shadow_ambient' is not supported.
+[INFO]: OpenGL extension 'GL_APPLE_client_storage' is not supported.
+[INFO]: OpenGL extension 'GL_ARB_texture_non_power_of_two' is supported.
+[INFO]: OpenGL extension 'GL_EXT_texture_integer' is supported.
+[INFO]: OpenGL extension 'GL_EXT_texture3D' is supported.
+[INFO]: OpenGL extension 'GL_EXT_texture_array' is supported.
+[INFO]: OpenGL extension 'GL_EXT_blend_color' is supported.
+[INFO]: OpenGL extension 'GL_EXT_blend_equation' is not supported.
+[INFO]: OpenGL extension 'GL_EXT_blend_equation_separate' is supported.
+[INFO]: OpenGL extension 'GL_SGIX_blend_alpha_minmax' is not supported.
+[INFO]: OpenGL extension 'GL_EXT_blend_logic_op' is not supported.
+[INFO]: OpenGL extension 'GL_EXT_stencil_wrap' is supported.
+[INFO]: OpenGL extension 'GL_EXT_stencil_two_side' is supported.
+[INFO]: OpenGL extension 'GL_ATI_separate_stencil' is supported.
+[INFO]: OpenGL extension 'GL_ARB_color_buffer_float' is supported.
+[INFO]: OpenGL extension 'GL_ARB_point_sprite' is supported.
+[INFO]: OpenGL extension 'GL_ARB_multisample' is supported.
+[INFO]: OpenGL extension 'GL_NV_multisample_filter_hint' is not supported.
+[INFO]: OpenGL extension 'GL_EXT_framebuffer_object' is supported.
+[INFO]: OpenGL extension 'GL_EXT_packed_depth_stencil' is supported.
+[INFO]: GraphicsCostEstimator::calibrate(..)
+[INFO]: GraphicsWindowWin32::setSyncToVBlank on
+[INFO]: Viewer::startThreading() - starting threading
+[INFO]: Viewer::startThreading() - contexts.size()=1
+[INFO]: Making scene thread safe
+[INFO]: Doing add
+[INFO]: Doing add
+[INFO]: Doing add
+[INFO]:   gc->getGraphicsThread()->startThread() 07F020A8
+[INFO]: Set up threading
+[INFO]: View::init()
+[INFO]: Doing run 07F020A8 isRunning()=1
+[INFO]: ShaderComposer::~ShaderComposer() 00EAF698
+[INFO]: OpenGL extension 'GL_ARB_vertex_buffer_object' is supported.
+[INFO]: OpenGL extension 'GL_EXT_secondary_color' is supported.
+[INFO]: OpenGL extension 'GL_EXT_fog_coord' is supported.
+[INFO]: Created new 00EAF290 TextureObject, _numOfTextureObjects 1
+[INFO]: OpenGL extension '' is not supported.
+[INFO]: RenderStage::runCameraSetUp(osg::RenderInfo& renderInfo) 00EB30C8
+[INFO]: Setting up osg::Camera::FRAME_BUFFER
+[INFO]: ShaderComposer::~ShaderComposer() 00F03B18
+[INFO]: OpenGL extension '' is not supported.
+[INFO]: RenderStage::runCameraSetUp(osg::RenderInfo& renderInfo) 00F07078
+[INFO]: Setting up osg::Camera::FRAME_BUFFER
+[INFO]: Viewer::~Viewer():: start destructor getThreads = 1
+[INFO]: ViewerBase::stopThreading() - stopping threading
+[INFO]: Renderer::release()
+[INFO]: Cancelling OperationThread 07F020A8 isRunning()=1
+[INFO]:    Doing cancel 07F020A8
+[INFO]: exit loop 07F020A8 isRunning()=1
+[INFO]:   OperationThread::cancel() thread cancelled 07F020A8 isRunning()=0
+[INFO]: Cancelling OperationThread 07F020A8 isRunning()=0
+[INFO]:   OperationThread::cancel() thread cancelled 07F020A8 isRunning()=0
+[INFO]: Viewer::stopThreading() - stopped threading.
+[INFO]: close(1)00F0B610
+[INFO]: Releasing GL objects for Camera=00EA9958 _state=00F0F008
+[INFO]: BufferData::releaseGLObjects(00F0F008)
+[INFO]: BufferData::releaseGLObjects(00F0F008)
+[INFO]: BufferData::releaseGLObjects(00F0F008)
+[INFO]: BufferData::releaseGLObjects(00F0F008)
+[INFO]: Closing still viable window 0 _state->getContextID()=0
+[INFO]: Doing delete of GL objects
+[INFO]: Done delete of GL objects
+[INFO]: Doing discard of deleted OpenGL objects.
+[INFO]: decrementUsageCount()0
+[INFO]: GraphicsContext::decrementContextIDUsageCount(0) to 0
+[INFO]: Viewer::~Viewer() end destructor getThreads = 0
+[INFO]: Destructing osgViewer::View
+[INFO]: Destructing osg::View
+[INFO]: BufferData::releaseGLObjects(00000000)
+[INFO]: BufferData::releaseGLObjects(00000000)
+[INFO]: BufferData::releaseGLObjects(00000000)
+[INFO]: BufferData::releaseGLObjects(00000000)
+[INFO]: DatabasePager::RequestQueue::~RequestQueue() Destructing queue.
+[INFO]: DatabasePager::RequestQueue::~RequestQueue() Destructing queue.
+[INFO]: DatabasePager::RequestQueue::~RequestQueue() Destructing queue.
+[INFO]: DatabasePager::RequestQueue::~RequestQueue() Destructing queue.
+[INFO]: ShaderComposer::~ShaderComposer() 00F105A0
+[INFO]: close(1)00F0B610
+[INFO]: close(0)00F0B610
+[INFO]: GraphicsContext::unregisterGraphicsContext 00F0B610
+[INFO]: Done destructing osg::View
+[INFO]: BufferData::releaseGLObjects(00000000)
+[INFO]: BufferData::releaseGLObjects(00000000)
+[INFO]: BufferObject::releaseGLObjects(00000000)
+[INFO]: GraphicsContext::setWindowingSystemInterface() 00000000	5CD9DF44
+[INFO]: DatabasePager::RequestQueue::~RequestQueue() Destructing queue.
+[INFO]: DatabasePager::RequestQueue::~RequestQueue() Destructing queue.
+[INFO]: DatabasePager::RequestQueue::~RequestQueue() Destructing queue.
+[INFO]: DatabasePager::RequestQueue::~RequestQueue() Destructing queue.
+[INFO]: Closing DynamicLibrary osgPlugins-3.4.0/osgdb_osgd.dll
+[INFO]: Closing DynamicLibrary osgPlugins-3.4.0/osgdb_deprecated_osgd.dll
+[INFO]: Closing DynamicLibrary osgPlugins-3.4.0/osgdb_rgbd.dll

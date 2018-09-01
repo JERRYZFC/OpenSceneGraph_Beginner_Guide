@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Scene>
+  <Version attribute="130" />
+  <Generator attribute="OpenSceneGraph 3.4.0" />
+  <osg--Group>
+    <UniqueID attribute="1" />
+    <UserDataContainer attribute="TRUE">
+      <MyNamespace--MyUserDataContainer>
+        <UniqueID attribute="2" />
+        <UDC_UserObjects attribute="11">
+          <osg--IntValueObject>
+            <UniqueID attribute="3" />
+            <Name attribute="&quot;Int value&quot;" />
+            <Value attribute="10" />
+          </osg--IntValueObject>
+          <osg--StringValueObject>
+            <UniqueID attribute="4" />
+            <Name attribute="&quot;Status&quot;" />
+            <Value attribute="&quot;All seems fine&quot;" />
+          </osg--StringValueObject>
+          <osg--FloatValueObject>
+            <UniqueID attribute="5" />
+            <Name attribute="&quot;Height&quot;" />
+            <Value attribute="1.4" />
+          </osg--FloatValueObject>
+          <osg--Geometry>
+            <UniqueID attribute="6" />
+            <Name attribute="&quot;myDrawable&quot;" />
+          </osg--Geometry>
+          <osg--IntValueObject>
+            <UniqueID attribute="7" />
+            <Name attribute="&quot;fred&quot;" />
+            <Value attribute="12" />
+          </osg--IntValueObject>
+          <osg--DoubleValueObject>
+            <UniqueID attribute="8" />
+            <Name attribute="&quot;john&quot;" />
+            <Value attribute="1.1" />
+          </osg--DoubleValueObject>
+          <osg--FloatValueObject>
+            <UniqueID attribute="9" />
+            <Name attribute="&quot;david&quot;" />
+            <Value attribute="1.9" />
+          </osg--FloatValueObject>
+          <osg--CharValueObject>
+            <UniqueID attribute="10" />
+            <Name attribute="&quot;char&quot;" />
+            <Value attribute="65" />
+          </osg--CharValueObject>
+          <osg--MatrixdValueObject>
+            <UniqueID attribute="11" />
+            <Name attribute="&quot;matrixd&quot;" />
+            <Value text="1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+1 2 3 1" />
+          </osg--MatrixdValueObject>
+          <osg--BoolValueObject>
+            <UniqueID attribute="12" />
+            <Name attribute="&quot;flag-on&quot;" />
+            <Value attribute="TRUE" />
+          </osg--BoolValueObject>
+          <osg--BoolValueObject>
+            <UniqueID attribute="13" />
+            <Name attribute="&quot;flag-off&quot;" />
+          </osg--BoolValueObject>
+        </UDC_UserObjects>
+      </MyNamespace--MyUserDataContainer>
+    </UserDataContainer>
+  </osg--Group>
+</Scene>
