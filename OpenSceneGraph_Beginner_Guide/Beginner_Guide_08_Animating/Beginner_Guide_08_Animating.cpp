@@ -14,6 +14,7 @@
 #include <osg/Material>
 #include <osgAnimation/EaseMotion>
  
+#include "osg/ArgumentParser"
  
 #include <osgAnimation/BasicAnimationManager>
 #include <osgAnimation/UpdateMatrixTransform>
@@ -23,6 +24,8 @@
 #include <osg/Switch>
 #include <osgDB/ReadFile>
 #include <osgViewer/Viewer>
+#include <iostream>
+#include <string>
 
 class SwitchingCallback : public osg::NodeCallback
 {
@@ -405,15 +408,6 @@ void CreatingComplexKeyFrameAnimations()
 }
 
 
-int  creatingAndDrivingCharacterSystem()
-{
-
-
-
-
-
-}
-
 
 int main(_In_ int _Argc, _In_count_(_Argc) _Pre_z_ char ** _Argv, _In_z_ char ** _Env)
 {
@@ -424,7 +418,51 @@ int main(_In_ int _Argc, _In_count_(_Argc) _Pre_z_ char ** _Argv, _In_z_ char **
    //FadeInTest();
    //AnimatingInGraphicsShaders();
    //CreatingComplexKeyFrameAnimations();
-  return 0;
+  
+
+  
+    osg::ArgumentParser arguments( &_Argc, _Argv );
+    bool listAll = false;
+    std::string animationName;
+    arguments.read( "--animation", animationName );
+    if ( arguments.read("--listall") ) listAll = true;
+
+
+    osg::ref_ptr<osg::Node> model =
+      osgDB::readNodeFile("bignathan.osg");
+    if ( !model ) return 1;
+
+
+    osgAnimation::BasicAnimationManager* manager =
+      dynamic_cast<osgAnimation::BasicAnimationManager*>
+      ( model->getUpdateCallback() );
+    if ( !manager ) return 1;
+
+
+
+    const osgAnimation::AnimationList& animations =
+      manager->getAnimationList();
+    if ( listAll ) std::cout << "**** Animations ****" << std::endl;
+    for ( unsigned int i=0; i<animations.size(); ++i )
+    {
+      const std::string& name = animations[i]->getName();
+      if ( name==animationName )
+        manager->playAnimation( animations[i].get() );
+      if ( listAll ) std::cout << name << std::endl;
+    }
+    if ( listAll )
+    {
+      std::cout << "********************" << std::endl;
+      return 0;
+    }
+
+    osgViewer::Viewer viewer;
+    viewer.setSceneData( model.get() );
+
+    viewer.setUpViewInWindow(10,10,800,600);;
+    return viewer.run();
+ 
+
 }
 
 

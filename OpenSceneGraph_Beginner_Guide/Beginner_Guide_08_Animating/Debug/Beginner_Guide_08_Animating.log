@@ -1,5 +1,5 @@
-﻿生成启动时间为 2018-09-01 10:47:06。
-     1>项目“C:\temp\OpenSceneGraph_Beginner_Guide\Beginner_Guide_08_Animating\Beginner_Guide_08_Animating.vcxproj”在节点 2 上(build 个目标)。
+﻿生成启动时间为 2018-09-01 11:09:38。
+     1>项目“C:\temp\github\OpenSceneGraph_Beginner_Guide\OpenSceneGraph_Beginner_Guide\Beginner_Guide_08_Animating\Beginner_Guide_08_Animating.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\Beginner_Guide_08_Animating.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
@@ -7,16 +7,16 @@
          Beginner_Guide_08_Animating.cpp
      1>c:\@@platformsdkvs10x32\openscenegraph3d4d0\include\osganimation\easemotion(244): warning C4305: “初始化”: 从“double”到“float”截断
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\temp\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.exe" /NOLOGO /LIBPATH:"C:\@@PlatformSDKvs10x32\OpenSceneGraph3d4d0\lib" opengl32.lib OpenThreadsd.lib osgd.lib osgDBd.lib osgUtild.lib osgQtd.lib osgGAd.lib osgViewerd.lib osgTextd.lib osgAnimationd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Beginner_Guide_08_Animating.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\temp\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\temp\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.lib" /MACHINE:X86 Debug\Beginner_Guide_08_Animating.obj
-         LINK : 没有找到 C:\temp\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.exe 或上一个增量链接没有生成它；正在执行完全链接
-         Beginner_Guide_08_Animating.vcxproj -> C:\temp\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.exe
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\temp\github\OpenSceneGraph_Beginner_Guide\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.exe" /NOLOGO /LIBPATH:"C:\@@PlatformSDKvs10x32\OpenSceneGraph3d4d0\lib" opengl32.lib OpenThreadsd.lib osgd.lib osgDBd.lib osgUtild.lib osgQtd.lib osgGAd.lib osgViewerd.lib osgTextd.lib osgAnimationd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Beginner_Guide_08_Animating.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\temp\github\OpenSceneGraph_Beginner_Guide\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\temp\github\OpenSceneGraph_Beginner_Guide\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.lib" /MACHINE:X86 Debug\Beginner_Guide_08_Animating.obj
+         LINK : 没有找到 C:\temp\github\OpenSceneGraph_Beginner_Guide\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.exe 或上一个增量链接没有生成它；正在执行完全链接
+         Beginner_Guide_08_Animating.vcxproj -> C:\temp\github\OpenSceneGraph_Beginner_Guide\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.exe
        Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\temp\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.exe;#1" /manifest Debug\Beginner_Guide_08_Animating.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\temp\github\OpenSceneGraph_Beginner_Guide\OpenSceneGraph_Beginner_Guide\Debug\Beginner_Guide_08_Animating.exe;#1" /manifest Debug\Beginner_Guide_08_Animating.exe.intermediate.manifest
        FinalizeBuildStatus:
          正在删除文件“Debug\Beginner_Guide_08_Animating.unsuccessfulbuild”。
          正在对“Debug\Beginner_Guide_08_Animating.lastbuildstate”执行 Touch 任务。
-     1>已完成生成项目“C:\temp\OpenSceneGraph_Beginner_Guide\Beginner_Guide_08_Animating\Beginner_Guide_08_Animating.vcxproj”(build 个目标)的操作。
+     1>已完成生成项目“C:\temp\github\OpenSceneGraph_Beginner_Guide\OpenSceneGraph_Beginner_Guide\Beginner_Guide_08_Animating\Beginner_Guide_08_Animating.vcxproj”(build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:11.63
+已用时间 00:00:08.18
